@@ -1,11 +1,16 @@
 <!doctype html>
 <html>
     <head>
-        <title></title>
+        <title>PNG CMS</title>
         <script src="main.js"></script>
         <link rel="stylesheet" type="text/css" href="main.css">
     </head>
     <body>
-
+        <form>
+            <div class="controlBox">
+                <textarea id="blogText" onkeyup="updateImage()" rows="20" cols="20"></textarea>
+                <canvas id="blogCanvas"></canvas>
+            </div>
+        </form>
     </body>
 </html>

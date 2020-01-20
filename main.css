@@ -1,0 +1,18 @@
+body {
+    background-color: #000000;
+    background-size: cover;
+}
+
+textarea {
+    vertical-align: top;
+    width: 200px;
+}
+
+canvas {
+    display: block;
+}
+
+.controlBox {
+    background-color: #000000;
+    display:inline-block
+}
