@@ -1,11 +1,11 @@
 body {
-    background-color: #000000;
+    background-color: #0800ff;
     background-size: cover;
 }
 
 textarea {
     vertical-align: top;
-    width: 200px;
+    width: 100%;
 }
 
 canvas {
@@ -13,6 +13,6 @@ canvas {
 }
 
 .controlBox {
-    background-color: #000000;
-    display:inline-block
+    background-color: #0800ff;
+    display: inline-block;
 }
